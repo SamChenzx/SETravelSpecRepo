@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SETravel"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "SETravel static lib for compile test"
   spec.description  = <<-DESC
                       SETravel static lib for compile test, a private spec repo
